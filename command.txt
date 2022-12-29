@@ -1,0 +1,4 @@
+ls- to list files and folders
+cat- to vuew file 
+echo- to print any string
+history- to view history
