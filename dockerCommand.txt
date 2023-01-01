@@ -1,1 +1,4 @@
 docker ps- to view running containers
+docker run -d -it ubuntu /bin/bash - to download and run ubuntu container.
+docker stop +container id -to stop running container
+docker exec -it +container id /bin/bash - to go inside the container
