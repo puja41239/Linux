@@ -1,4 +1,26 @@
-ls- to list files and folders
-cat- to vuew file 
-echo- to print any string
-history- to view history
+ls-> to list files and folders
+ls- la ->to get list od files or folder in details
+cat-> to view file
+head -> to view file from top
+tail -> to view file from bottom
+more +file name-> to open file in incremental manner
+echo- >to print any string
+history-> to view history
+pwd(print working directory)-> to know the current location
+mkdir-> to create folder
+rmdir-> to delete the folder
+touch -> to create file
+cd-> to go inside the folder
+cd .. -> to come out of folder
+cp two/demo.txt three/( cp + location where file is exist/files name location where files to be saved) -> to copy the file
+mv two/demo.txt three/ -> to move file
+wc-> to know number of lines in a file
+:wq-> to save the file
+:q -> to quit without saving
+free -h-> to check the memory
+top -> to know the utilisation of system
+df -h -> to know space or disk size of computer
+sudo useradd user1- to add new user
+sudo groupadd testing - to create a group
+sudo passwd user1 - to set the passoword for the user
+sudo usermod -aG groupname user name -> to add user to a group
