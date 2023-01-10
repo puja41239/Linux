@@ -6,3 +6,4 @@ docker logs + container id - to check the logs of container
 docker help- to get help related to docker
 docker stats- to check the stats of docker
 docker restatrt + container id - to restart the of container
+sudo docker run -p 8080:8080 -d -v /home/ubuntu:/var/jenkins_home jenkins/jenkins - to start jenkins
